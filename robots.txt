@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://promocoespet.github.io/blog-promocoes-pet/sitemap.xml
